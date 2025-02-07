@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Argan Oil Shampoo",
+    "price": 15,
+    "description": "Moisturizing shampoo infused with argan oil.",
+    "imageUrl": "https://i.pinimg.com/736x/0c/29/aa/0c29aac55e7a1a7fa02472804416a228.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Keratin Hair Mask",
+    "price": 20,
+    "description": "Deep conditioning hair mask with keratin.",
+    "imageUrl": "https://i.pinimg.com/736x/60/fe/21/60fe21d037a8d9602254cd40a65618e3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Coconut Hair Serum",
+    "price": 12,
+    "description": "Hair serum enriched with coconut oil.",
+    "imageUrl": "https://i.pinimg.com/736x/61/cd/83/61cd83c87b408f4895989ca16763a962.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Volumizing Hair Mousse",
+    "price": 10,
+    "description": "Adds volume and shine to your hair.",
+    "imageUrl": "https://i.pinimg.com/736x/ae/8a/34/ae8a3436d9e994603db77a35cd242fa4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Aloe Vera Conditioner",
+    "price": 14,
+    "description": "Gentle conditioner with aloe vera extracts.",
+    "imageUrl": "https://i.pinimg.com/736x/0b/96/64/0b9664f45b269a7e0dca72472b653b28.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Heat Protectant Spray",
+    "price": 18,
+    "description": "Protects hair from heat damage during styling.",
+    "imageUrl": "https://i.pinimg.com/736x/d5/76/f7/d576f7297e9db56e0d454cbc2e944b61.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hair Growth Oil",
+    "price": 25,
+    "description": "Promotes hair growth with natural ingredients.",
+    "imageUrl": "https://i.pinimg.com/736x/73/0c/88/730c887a0dc6286d51a12c37cdb7600a.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dry Shampoo Spray",
+    "price": 8,
+    "description": "Refreshes hair without water.",
+    "imageUrl": "https://i.pinimg.com/736x/2c/0e/07/2c0e07e794c1980dc1b5b13b1154b27e.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Anti-Dandruff Shampoo",
+    "price": 13,
+    "description": "Effective against dandruff and itchy scalp.",
+    "imageUrl": "https://i.pinimg.com/736x/07/ed/8b/07ed8b3d4fbffeb6e9e6c8149fa8190b.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Curl Defining Cream",
+    "price": 16,
+    "description": "Enhances and defines curls naturally.",
+    "imageUrl": "https://i.pinimg.com/736x/91/c8/a4/91c8a48ef8bf37a7610e152cc5f217b6.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Leave-In Conditioner",
+    "price": 15,
+    "description": "Leave-in treatment for soft, manageable hair.",
+    "imageUrl": "https://i.pinimg.com/736x/d2/3c/c1/d23cc16949005342f4369517e3b28942.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Hair Repair Serum",
+    "price": 22,
+    "description": "Repairs split ends and strengthens hair.",
+    "imageUrl": "https://i.pinimg.com/736x/18/bb/e0/18bbe04d3d5afb2df5bf3c666ef236ad.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Purple Shampoo",
+    "price": 17,
+    "description": "Neutralizes brassy tones in blonde hair.",
+    "imageUrl": "https://i.pinimg.com/736x/d9/04/ac/d904ace42fe39a1faa0752ecbea1efd4.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Scalp Treatment Oil",
+    "price": 19,
+    "description": "Soothes and nourishes the scalp.",
+    "imageUrl": "https://i.pinimg.com/736x/7c/ea/bf/7ceabfaec23e1bc515a7a9584af7f9e2.jpg"
+  }
+]
